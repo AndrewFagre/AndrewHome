@@ -1,0 +1,1 @@
+This is my initial working directory for setting up git.
